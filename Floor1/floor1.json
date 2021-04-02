@@ -35,6 +35,11 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Willkommen bei Ziad"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"tomatenklang.online"
                 }],
          "type":"tilelayer",
          "visible":true,
